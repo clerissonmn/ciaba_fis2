@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Física — CIABA"
-  lang: pt-BR
   navbar:
     left:
       - href: index.qmd
@@ -20,6 +19,7 @@ format:
     toc: true
     toc-title: "Nesta página"
     number-sections: true
+    lang: pt-BR
     html-math-method: mathjax
 
 execute:
