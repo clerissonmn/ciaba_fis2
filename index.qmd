@@ -1,0 +1,26 @@
+---
+title: "Física 3 — Syllabus"
+subtitle: "CIABA · 1º Semestre 2026"
+date: last-modified
+---
+
+## Descrição
+
+Disciplina de física de base para engenharia naval, com foco em aplicações
+do contexto marítimo e alinhamento às competências STCW.
+
+## Resultados de Aprendizagem
+
+*(RAs serão inseridos aqui após geração via Apêndice III)*
+
+## Avaliação
+
+| Instrumento | Semana | Peso |
+|---|---|---|
+| Prova 1 (P1) | 8 | 40% |
+| Prova 2 (P2) | 16 | 40% |
+| Continuada | contínuo | 20% |
+
+## Contato
+
+**Professor:** {nome} · **Atendimento:** {horário e local}

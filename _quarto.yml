@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Física — CIABA"
+  lang: pt-BR
+  navbar:
+    left:
+      - href: index.qmd
+        text: Syllabus
+      - text: Aulas
+        href: aulas.qmd
+      - text: Listas
+        href: listas.qmd
+
+format:
+  html:
+    theme: [brand, theme.scss]
+    toc: true
+    toc-title: "Nesta página"
+    number-sections: true
+    html-math-method: mathjax
+
+execute:
+  echo: true
+  warning: false
