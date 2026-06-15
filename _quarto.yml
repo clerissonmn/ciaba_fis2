@@ -9,8 +9,9 @@ website:
       - href: index.qmd
         text: Syllabus
       - text: Aulas
-        menu:
-          - aula-01-02-centro-gravidade.qmd
+        href: aulas.qmd
+      - text: Listas
+        href: listas.qmd
 
 format:
   html:
@@ -20,11 +21,6 @@ format:
     number-sections: true
     lang: pt-BR
     html-math-method: mathjax
-  pdf:
-    documentclass: article
-    lang: pt-BR
-    toc: true
-    number-sections: true
 
 execute:
   echo: true
