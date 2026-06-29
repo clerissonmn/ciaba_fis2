@@ -237,9 +237,6 @@ pppp
 
 ---
 
-
----
-
 ## 6. Materiais
 
 - Notas de aula próprias (publicadas após cada par de aulas)
